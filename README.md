@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yagizkaan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java,Swift
-- 📫 How to reach me 
+- 🌱 I’m currently coding Java,JS
+- 📫 How to reach me
+- https://www.linkedin.com/in/ya%C4%9F%C4%B1z-kaan-kaya1/
 
 <!---
 yagizkaan/yagizkaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
