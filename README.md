@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yagizkaan
 - 👀 I’m interested in coding
-- 🌱 I’m currently coding Java,JS
+- 🌱 I’m currently coding NodeJs,JS,Java
 - 📫 reachMe linkedIn https://www.linkedin.com/in/ya%C4%9F%C4%B1z-kaan-kaya1/
 
 <!---
