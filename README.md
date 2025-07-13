@@ -1,15 +1,16 @@
 # 👋 Merhaba, I'm Yağız Kaan Kaya
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%7C+Node.js+%7C+React;Passionate+about+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Node.js+%7C+Databases;Passionate+about+coding" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 👀 I'm interested in **coding** and building amazing applications
+- 👀 I'm interested in **backend development** and building robust APIs
 - 🌱 I'm currently coding with **Java**, **Node.js**, **JavaScript**, and **React**
-- 💡 I love learning new technologies and solving complex problems
-- 🎯 Passionate about creating user-friendly and efficient solutions
+- 💡 I love learning new technologies and solving complex backend problems
+- 🎯 Passionate about creating scalable and efficient backend solutions
+- 🔄 Also exploring full-stack development to become more versatile
 
 ## 🛠️ Tech Stack
 
@@ -61,10 +62,11 @@
 
 ## 🎉 Fun Facts
 
-- 🔥 I'm currently working on exciting projects
-- 🎯 Always eager to learn new technologies
-- 🌟 Passionate about clean code and best practices
-- 🚀 Love building scalable applications
+- 🔥 I'm currently working on exciting backend projects
+- 🎯 Always eager to learn new backend technologies
+- 🌟 Passionate about clean code and backend best practices
+- 🚀 Love building scalable backend applications
+- 🔄 Expanding to full-stack development
 
 ---
 
