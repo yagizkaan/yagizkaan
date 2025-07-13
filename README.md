@@ -1,4 +1,4 @@
-# 👋 Merhaba, I'm Yağız Kaan Kaya
+# 👋 Hi, I'm Yağız Kaan Kaya
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Backend+Developer;Java+%7C+Node.js+%7C+Databases;Passionate+about+coding" alt="Typing SVG" />
@@ -42,12 +42,6 @@
   <a href="mailto:yagizkaan.kaya@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yagizkaan&theme=radical&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎉 Fun Facts
