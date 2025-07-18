@@ -58,5 +58,8 @@
   <img src="https://komarev.com/ghpvc/?username=yagizkaan&style=flat-square&color=blue" alt="Profile Views" />
   
   **Thanks for visiting my profile! Feel free to connect with me! 🚀**
-<h2>Mail: <p>yagizkaan.kaya@outlook.com</p></h2>
+  <br><br>
+  📩 You can reach me anytime at:  
+  <a href="mailto:yagizkaan.kaya@outlook.com">**yagizkaan.kaya@outlook.com**</a>
+  
 </div>
